@@ -1,10 +1,9 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Recriando a página de login do Instagram :camera:
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Resolução do exercício proposto no bootcamp [HTML Web Developer]([Digital Innovation One](https://web.digitalinnovation.one/track/html-web-developer)) da [Digital Innovation One](https://digitalinnovation.one/).
 
-### Os requisitos são:
+### Linguagens utilizadas:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* HTML
+* CSS
 
-## 🚀 Let's code! 🚀
